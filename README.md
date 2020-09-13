@@ -1,16 +1,15 @@
-### Hi there 👋
+# Trent Conway --@TrentConway_
 
-<!--
-**TrentConway/TrentConway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋
 
-Here are some ideas to get you started:
+I am a Technical Business Analyst at Alex Solutions and a recent graduate of Electrical and Computer Systems Engineering and Science (Statistics and Computer Science) from Monash University. I am currently passionate about Web Development, Machine Learning (Classical -> Deep Learning) and developing my personal brand.   
+Most of my days are spent learning, working & reading!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎒 Current Projects
+  🌱  [Personal Website](https://github.com/TrentConway/Website)   
+  🌱  [Personal Branding]()  
+
+## 💬 Follow Me ?
+
+<a href="https://twitter.com/TrentConway_"><img style=" border-radius: 50%;" height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/trent-conway-090903123/"><img style=" border-radius: 50%;" height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
