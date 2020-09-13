@@ -11,5 +11,9 @@ Most of my days are spent learning, working & reading!
 
 ## 💬 Follow Me ?
 
-<a href="https://twitter.com/TrentConway_"><img style=" border-radius: 50%;" height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/trent-conway-090903123/"><img style=" border-radius: 50%;" height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/TrentConway_">
+    <img style=" border-radius: 50%;" height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true">
+</a>
+<a href="https://www.linkedin.com/in/trent-conway-090903123/">
+    <img style=" border-radius: 50%;" height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true">
+</a>
