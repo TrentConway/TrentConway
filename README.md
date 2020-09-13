@@ -1,6 +1,4 @@
-# Trent Conway -- @TrentConway_
-
-### Hi 👋
+# 👋 Trent Conway --@TrentConway_
 
 I am a Technical Business Analyst at Alex Solutions and a recent graduate of Electrical and Computer Systems Engineering and Science (Statistics and Computer Science) from Monash University. I am currently passionate about Web Development, Machine Learning (Classical -> Deep Learning) and developing my personal brand.   
 Most of my days are spent learning, working & reading!
