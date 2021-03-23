@@ -1,11 +1,10 @@
 # 👋 Trent Conway --@TrentConway_
 
-I am a Technical Business Analyst at Alex Solutions and a recent graduate of Electrical and Computer Systems Engineering and Science (Statistics and Computer Science) from Monash University. I am currently passionate about Web Development, Machine Learning (Classical -> Deep Learning) and developing my personal brand.   
+I am a Product Owner at Propel Ventures and am a recent graduate of Electrical and Computer Systems Engineering and Science (Statistics and Computer Science) from Monash University. I am currently passionate about Web Development and Machine Learning (Classical -> Deep Learning).   
 Most of my days are spent learning, working & reading!
 
 ## 🎒 Current Projects
   🌱   [Personal Website](https://github.com/TrentConway/Website)   
-  🌱   [Personal Branding]()  
 
 ## 💬 Follow Me ?
 
